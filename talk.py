@@ -17,7 +17,7 @@ if args[1] == "random":
     random_num = int(args[2])
     sentence = random.randint(1,random_num)
 
-elif args[1] == "nomal":
+elif args[1] == "normal":
     sentence = int(args[2])
 
 elif args[1] == "crazy":
